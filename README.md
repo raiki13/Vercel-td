@@ -48,3 +48,7 @@ Déployer une application
 16 'Plaintext, Secret, Reference, cela permet de classer les variables suivant leurs fonctions'
 
 17 ''
+
+18 'https://exempledeux.vercel.app/'
+
+19 'un pull request permet de detecter les différences entre deux fichier et les fusionner avec les caractéristique de chaque'
